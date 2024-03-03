@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ashu folder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ashu folder"
+	}
+}

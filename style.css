@@ -1,0 +1,104 @@
+
+.main
+{
+background-color:rgb(94, 94, 164);
+}
+
+img
+{
+ border-left: 50px ;
+ color:;
+}
+ul
+{
+    background-color:rgb(112, 149, 163);
+    padding:10px;
+    margin: 5px;
+}
+li
+{
+    display: inline;
+    margin:60px;
+}
+a
+{
+text-decoration: none;
+color: black;
+}
+h1{
+    color:black;
+    text-align: center;
+    text-shadow: 2px 3px 3px rgb(191, 142, 142);
+}
+nav{
+    background-color:rgb(112, 149, 163);
+}
+.abc
+{
+color: black;
+text-align: center;
+}
+h2
+{
+text-align: center;
+text-decoration: none;
+}
+
+h5
+{
+text-align: center;
+}
+.ash
+{
+background-color:rgb(114, 114, 162) ;
+padding: 20px;
+}
+.main1
+{
+    display: table;
+    width: 100%;
+   table-layout: fixed;
+   /* border:2px solid red; */
+   border-spacing: 10px;
+   float :left;  
+}
+.a1
+{
+    display: table;
+    width: 20%;
+   table-layout: fixed;
+   /* border:2px solid white; */
+   border-spacing: 10px;
+   float :left;
+   padding: 30px;
+text-size-adjust: 10px;
+margin: 10px;
+text-align: center;
+}
+.a2
+{
+    display: table;
+    width: 20%;
+   table-layout: fixed;
+   /* border:2px solid white; */
+   border-spacing: 10px;
+   float :left;
+   text-size-adjust: 10px;
+   margin-left: 10%;
+   margin-top: 30px; 
+   text-align: center;
+}
+.a3
+{
+    display: table;
+    width: 20%;
+   table-layout: fixed;
+   /* border:2px solid white; */
+   border-spacing: 10px;
+   float :left;
+   margin-left:15%;
+   margin-top: 40px;
+   padding: 10px; 
+   text-align: center;
+}
+
